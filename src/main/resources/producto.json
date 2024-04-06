@@ -1,0 +1,67 @@
+[
+    {   
+        "id":1,
+        "nombrep":"Hamburguesa Clasica",
+        "precio":20000,
+        "peso":"130 g"
+    },
+    {
+        "id":2,
+        "nombrep":"Hamburguesa Con queso",
+        "precio" :   23000,
+        "peso" : "135 g"
+    },    
+    {
+        "id":3,
+        "nombrep":"Hamburguesa con Tocineta",
+        "precio" :   25000,
+        "peso" : "140 g"
+    },
+    {
+        "id":4,
+        "nombrep":"Hamburguesa Texaca",
+        "precio" :   27000,
+        "peso" : "165 g"
+    },    
+    {
+        "id":5,
+        "nombrep":"Hamburguesa Paisa",
+        "precio" :   29000,
+        "peso" : "192 g"
+    },    {
+        "id":6,
+        "nombrep":"Hamburguesa Jr",
+        "precio" :   15000,
+        "peso" : "90 g"
+    },    
+    {
+        "id":7,
+        "nombrep":"Salchipapa pequeño",
+        "precio" :   2800,
+        "peso" : "35 g"
+    },
+    {
+        "id":8,
+        "nombrep":"Salchipapa con Muslos de pollo",
+        "precio" :   10000,
+        "peso" : "80 g"
+    },    
+    {
+        "id":9,
+        "nombrep":"Porcion de papas pequeñas",
+        "precio" :   6800,
+        "peso" : "35 g"
+    },    
+    {
+        "id":10,
+        "nombrep":"Porcion de papas Grandes",
+        "precio" :   15000,
+        "peso" : "45 g"
+    },    
+    {
+        "id":11,
+        "nombrep":"Vaso de Gaseosa",
+        "precio" :   4500,
+        "peso" : "9 Onzas"
+    }
+]
